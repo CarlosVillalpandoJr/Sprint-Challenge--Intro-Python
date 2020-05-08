@@ -36,7 +36,7 @@ class FlightVehicle(Vehicle):
     pass
 
 
-class Starship(FlightVehicle):
+class Starship(FlightVehicle): 
     pass
 
 
