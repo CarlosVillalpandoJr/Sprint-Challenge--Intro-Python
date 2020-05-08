@@ -29,7 +29,7 @@ class Motorcycle(GroundVehicle):
 
 
 vehicles = [
-    GroundVehicle(),
+    GroundVehicle(),   
     GroundVehicle(),
     Motorcycle(),
     GroundVehicle(),
